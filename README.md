@@ -1,16 +1,11 @@
-### Hi there 👋
+### ✨Heyy! Aqui é a Izabella Oliveira, seja bem-vindo(a) 💕
+- Hoje sou estudante da FIEB - ITB Brasílio Flores de Azevedo;
+- Pronomes: ela/dela 💃🏽;
+- Estou no 2º ano do Ensino médio Integrado ao Técnico do curso de Informática 💻;
+- Atualmente, estou focada em estudar tráfego pago e desenvolvimento web, em breve trago novos projetos para vocês! Bjo🦄✨
 
-<!--
-**belloliveira/belloliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<div align="center">
+  <a href="https://github.com/belloliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belloliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
