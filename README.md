@@ -2,7 +2,7 @@
 - Hoje sou estudante da FIEB - ITB Brasílio Flores de Azevedo;
 - Pronomes: ela/dela 💃🏽;
 - Estou no 2º ano do Ensino médio Integrado ao Técnico do curso de Informática 💻;
-- Atualmente, estou focada em estudar tráfego pago e desenvolvimento web, em breve trago novos projetos para vocês! Bjo🦄✨
+- Interessado em saber mais sobre mim? 👀 Dê uma olhada no meu linkedin! Bjo🦄✨
 
 <hr>
 <div align="center">
