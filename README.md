@@ -1,8 +1,8 @@
 ### ✨Heyy! Aqui é a Izabella Oliveira, seja bem-vindo(a) 💕
-- Hoje sou estudante da FIEB - ITB Brasílio Flores de Azevedo;
-- Pronomes: ela/dela 💃🏽;
-- Estou no 2º ano do Ensino médio Integrado ao Técnico do curso de Informática 💻;
-- Interessado em saber mais sobre mim? 👀 Dê uma olhada no meu linkedin! Bjo🦄✨
+- Sou estudante da FIEB - ITB Brasílio Flores de Azevedo;
+- she/her 💃🏽;
+- 2/3 Ensino médio Integrado ao Técnico do curso de Informática 💻;
+- Interessado em saber mais sobre mim? 👀 Clique aqui: https://beacons.ai/bellaiza.media
 
 <hr>
 <div align="center">
