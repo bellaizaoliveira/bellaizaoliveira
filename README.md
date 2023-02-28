@@ -1,5 +1,5 @@
 ### ✨ Heyy! Bella aqui, seja bem-vindo(a) 🍷
-- Sou estudante da FIEB - ITB Brasílio Flores de Azevedo;
+- Estudante da FIEB - ITB Brasílio Flores de Azevedo;
 - she/her 💃🏽;
 - 2/3 Ensino médio Integrado ao Técnico do curso de Informática 💻;
 - loading...📌
