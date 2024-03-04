@@ -1,7 +1,5 @@
-### ✨ Heyy! Bella aqui, seja bem-vindo(a) 🍷
-- Estudante da FIEB - ITB Brasílio Flores de Azevedo;
-- she/her 💃🏽;
-- 2/3 Ensino médio Integrado ao Técnico do curso de Informática 💻;
+### Hello, Love! Bella aqui, seja bem-vindo(a) ✨
+- FIEB TECH | Téc. Informática - 3/3 💻;
 - loading...📌
 
 <hr>
