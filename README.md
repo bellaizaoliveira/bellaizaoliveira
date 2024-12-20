@@ -1,6 +1,8 @@
 # Hello, Love! Bella aqui, seja bem-vindo(a) ✨
 
-Sou Izabella Oliveira, uma jovem profissional de 17 anos apaixonada por **Tecnologia da Informação** e **Ciência e Análise de Dados**. Atualmente, estou cursando **Técnico em Informática na FIEB Tech**, onde desenvolvo habilidades essenciais para criar soluções inovadoras no mundo digital.
+Sou **Izabella Oliveira**, uma jovem profissional de 18 anos apaixonada por **Ciência e Análise de Dados**.
+
+Atualmente, estou cursando **Ciências de Dados na UNICSUL**, complementando minha formação técnica adquirida no **Técnico em Informática pela FIEB Tech**, onde desenvolvi habilidades essenciais para criar soluções inovadoras no mundo digital.
 
 Com uma mentalidade focada em **aprendizado contínuo** e paixão por **resolver problemas complexos**, sou movida pela curiosidade e criatividade para integrar **marketing** e **tecnologia** de forma estratégica.
 
