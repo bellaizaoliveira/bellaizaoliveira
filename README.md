@@ -1,77 +1,114 @@
-<div align="center">
+# Izabella Oliveira
+### Data Scientist &nbsp;·&nbsp; IA Generativa &nbsp;·&nbsp; Finance
+> Bem-vinda(o) ao meu perfil! Pega um café ☕ e fica à vontade 💗
+Aqui você vai encontrar projetos reais de Ciência de Dados e IA Generativa saindo do papel e virando aplicação prática.
+Dá uma fuçada nos meus repositórios e também no meu LinkedIn. No README de cada projeto eu explico o racional de cada solução. Ah, e me manda uma mensagem para conversarmos, será um prazer me conectar com você! 🌸 &nbsp;&nbsp;
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,ff2d78,ff2d78,000000&height=250&section=header&text=bella.&fontSize=90&fontColor=ffffff&fontAlignY=55&animation=blinking&stroke=ff2d78&strokeWidth=1&desc=data%20scientist%20%2F%2F%20ai%20generativa%20%2F%2F%20finance&descSize=14&descColor=ff9bbe&descAlignY=75" width="100%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&duration=2500&pause=600&color=FF2D78&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=%24+whoami+→+Data+Scientist;%24+focus+→+AI+Generativa+%2B+Finance;%24+stack+→+Python+%7C+SQL+%7C+LLMs+%7C+XGBoost;%24+status+→+open_to_work+✓)](https://github.com/bellaizaoliveira)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![](https://img.shields.io/badge/-OPEN%20TO%20WORK-ff2d78?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/-DATA%20SCIENTIST-0a0a0a?style=flat-square&labelColor=0a0a0a&color=1c1c1c)
-![](https://img.shields.io/badge/-FINANCE%20×%20AI-0a0a0a?style=flat-square&labelColor=0a0a0a&color=1c1c1c)
-![](https://img.shields.io/badge/-BARUERI%2C%20SP-0a0a0a?style=flat-square&labelColor=0a0a0a&color=1c1c1c)
-
-</div>
-
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2500&pause=700&color=FF2D78&vCenter=true&width=520&height=28&lines=●+focus+%3D+%5B%22Machine+Learning%22%2C+%22GenAI%22%2C+%22Finance%22%5D;●+status+%3D+%22open_to_work%22+✓;●+location+%3D+%22Barueri%2C+SP+%7C+Brasil%22)](https://github.com/bellaizaoliveira)
 
 ---
 
+**// sobre**
+
+<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" />
+
+Cientista de Dados especializada em **IA Generativa, Machine Learning e Analytics** aplicados ao setor financeiro. Construo agentes de IA, pipelines de dados e modelos preditivos — do dado bruto ao insight que move decisões de negócio.
+
+Sei trabalhar com dados em qualquer escala, extrair padrões que importam e comunicar resultados para quem não fala técnico. Apaixonada por problemas difíceis e por IA que funciona de verdade.
+
+> *"Não construo modelos por construir — cada experimento começa com uma pergunta de negócio."*
+
+<br clear="right"/>
+
+---
+
+**// stack**
+
 <br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
 <tr>
-<td width="55%" valign="top">
+<td valign="top" width="17%">
 
-```python
-# bella.py — data scientist
-
-class Bella(DataScientist):
-
-    name    = "Izabella Oliveira"
-    alias   = "Bella"
-    role    = "Data Scientist"
-    company = "Bradesco Cartões"
-
-    expertise = {
-        "core"  : ["Machine Learning", "IA Generativa"],
-        "domain": ["Finance", "NLP", "LLMs"],
-        "tools" : ["Python", "SQL", "PySpark"],
-    }
-
-    building_now = [
-        "GenAI Pipelines",
-        "Predictive Models",
-        "Prompt Engineering",
-    ]
-
-    def mission(self):
-        return (
-            "Transformar dados em decisões "
-            "de negócio — em escala. 🚀"
-        )
 ```
+// linguagens
+```
+![](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=ff2d78)
+![](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=ff2d78)
+![](https://img.shields.io/badge/R-0a0a0a?style=flat-square&logo=r&logoColor=ff2d78)
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td valign="top" width="22%">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" />
+```
+// machine learning
+```
+![](https://img.shields.io/badge/Scikit--learn-0a0a0a?style=flat-square&logo=scikit-learn&logoColor=ff2d78)
+![](https://img.shields.io/badge/XGBoost-0a0a0a?style=flat-square&logoColor=ff2d78)
+![](https://img.shields.io/badge/SHAP-0a0a0a?style=flat-square&logoColor=ff2d78)
+![](https://img.shields.io/badge/Pandas-0a0a0a?style=flat-square&logo=pandas&logoColor=ff2d78)
+![](https://img.shields.io/badge/NumPy-0a0a0a?style=flat-square&logo=numpy&logoColor=ff2d78)
 
-<br>
+</td>
+<td valign="top" width="22%">
 
-![](https://img.shields.io/badge/Python-expert-ff2d78?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/SQL-advanced-ff2d78?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/GenAI-specialist-ff2d78?style=flat-square&labelColor=0a0a0a)
+```
+// ia generativa
+```
+![](https://img.shields.io/badge/Gemini_API-0a0a0a?style=flat-square&logo=google&logoColor=ff2d78)
+![](https://img.shields.io/badge/OpenAI_API-0a0a0a?style=flat-square&logo=openai&logoColor=ff2d78)
+![](https://img.shields.io/badge/LangChain-0a0a0a?style=flat-square&logoColor=ff2d78)
+![](https://img.shields.io/badge/Prompt_Eng.-0a0a0a?style=flat-square&logoColor=ff2d78)
+
+</td>
+<td valign="top" width="17%">
+
+```
+// big data
+```
+![](https://img.shields.io/badge/PySpark-0a0a0a?style=flat-square&logo=apachespark&logoColor=ff2d78)
+![](https://img.shields.io/badge/Databricks-0a0a0a?style=flat-square&logo=databricks&logoColor=ff2d78)
+![](https://img.shields.io/badge/Teradata-0a0a0a?style=flat-square&logoColor=ff2d78)
+
+</td>
+<td valign="top" width="22%">
+
+```
+// bi & viz
+```
+![](https://img.shields.io/badge/Power_BI_(DAX)-0a0a0a?style=flat-square&logo=powerbi&logoColor=ff2d78)
+![](https://img.shields.io/badge/Matplotlib-0a0a0a?style=flat-square&logoColor=ff2d78)
+![](https://img.shields.io/badge/Seaborn-0a0a0a?style=flat-square&logoColor=ff2d78)
+![](https://img.shields.io/badge/Plotly-0a0a0a?style=flat-square&logo=plotly&logoColor=ff2d78)
+
+</td>
+</tr>
+</table>
+
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td valign="top" width="25%">
+
+```
+// ferramentas
+```
+![](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=ff2d78)
+![](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=ff2d78)
+![](https://img.shields.io/badge/VS_Code-0a0a0a?style=flat-square&logo=visualstudiocode&logoColor=ff2d78)
+![](https://img.shields.io/badge/Jupyter-0a0a0a?style=flat-square&logo=jupyter&logoColor=ff2d78)
+
+</td>
+<td valign="top" width="75%">
+
+```
+// metodologias
+```
+![](https://img.shields.io/badge/EDA-0a0a0a?style=flat-square&logoColor=ff2d78)
+![](https://img.shields.io/badge/Feature_Engineering-0a0a0a?style=flat-square&logoColor=ff2d78)
+![](https://img.shields.io/badge/Statistical_Modeling-0a0a0a?style=flat-square&logoColor=ff2d78)
+![](https://img.shields.io/badge/Prompt_Engineering-0a0a0a?style=flat-square&logoColor=ff2d78)
+![](https://img.shields.io/badge/Scrum-0a0a0a?style=flat-square&logoColor=ff2d78)
+![](https://img.shields.io/badge/Kanban-0a0a0a?style=flat-square&logoColor=ff2d78)
 
 </td>
 </tr>
@@ -81,114 +118,10 @@ class Bella(DataScientist):
 
 ---
 
-<br>
+**// contato**
 
-<div align="center">
-
-### `// stack técnica`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,pytorch&theme=dark&perline=5" />
-
-<br><br>
-
-| Área | Tecnologias |
-|:---|:---|
-| **Machine Learning** | `XGBoost` `Scikit-learn` `SHAP` `Pandas` `NumPy` |
-| **IA Generativa** | `Gemini API` `OpenAI API` `Prompt Engineering` `LLMs` |
-| **Big Data** | `PySpark` `Databricks` `Teradata` `SQL Server` |
-| **BI & Viz** | `Power BI (DAX)` `Matplotlib` `Seaborn` `Plotly` |
-| **Metodologias** | `EDA` `Feature Engineering` `Statistical Modeling` `Scrum` |
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### `// projetos`
-
-<br>
-
-<a href="https://github.com/bellaizaoliveira/credit-risk-prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bellaizaoliveira&repo=credit-risk-prediction&bg_color=0a0a0a&border_color=ff2d78&icon_color=ff2d78&title_color=ff2d78&text_color=cccccc&border_radius=8" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-ff2d78?style=flat-square&logo=linkedin&logoColor=white&label=bellaiza&labelColor=0a0a0a)](https://linkedin.com/in/bellaiza)
 &nbsp;
-<a href="https://github.com/bellaizaoliveira/sentiment-analysis-banking">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bellaizaoliveira&repo=sentiment-analysis-banking&bg_color=0a0a0a&border_color=ff2d78&icon_color=ff2d78&title_color=ff2d78&text_color=cccccc&border_radius=8" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/bellaizaoliveira/genai-finance-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bellaizaoliveira&repo=genai-finance-analysis&bg_color=0a0a0a&border_color=ff2d78&icon_color=ff2d78&title_color=ff2d78&text_color=cccccc&border_radius=8" />
-</a>
+[![Email](https://img.shields.io/badge/gmail-ff2d78?style=flat-square&logo=gmail&logoColor=white&label=contato.bellaiza&labelColor=0a0a0a)](mailto:contato.bellaiza@gmail.com)
 &nbsp;
-<a href="https://github.com/bellaizaoliveira/genai-finance-pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bellaizaoliveira&repo=genai-finance-pipeline&bg_color=0a0a0a&border_color=ff2d78&icon_color=ff2d78&title_color=ff2d78&text_color=cccccc&border_radius=8" />
-</a>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### `// stats`
-
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bellaizaoliveira&show_icons=true&bg_color=0a0a0a&border_color=ff2d78&icon_color=ff2d78&title_color=ff2d78&text_color=cccccc&ring_color=ff2d78&border_radius=8&include_all_commits=true&count_private=true&hide_border=false" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellaizaoliveira&layout=compact&bg_color=0a0a0a&border_color=ff2d78&title_color=ff2d78&text_color=cccccc&border_radius=8&langs_count=6" />
-
-<br><br>
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=bellaizaoliveira&background=0a0a0a&border=ff2d78&stroke=1c1c1c&ring=ff2d78&fire=ff6b9d&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=ff2d78&sideLabels=888888&dates=555555&border_radius=8" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bellaizaoliveira&bg_color=0a0a0a&color=ff2d78&line=ff2d78&point=ffffff&area=true&area_color=ff2d78&hide_border=false&border_color=ff2d78&radius=8" width="90%" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### `// contato`
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-/%20in%20%2F%20bellaiza-ff2d78?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/bellaiza)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-contato.bellaiza-ff2d78?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:contato.bellaiza@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-bella.dev-ff2d78?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://bellaizaoliveira.github.io)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=bellaizaoliveira&color=ff2d78&style=flat-square&label=profile+views)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff2d78&height=130&section=footer&text=bella.&fontSize=32&fontColor=ffffff&fontAlignY=70&animation=fadeIn&fontAlign=50" width="100%"/>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/portfolio-ff2d78?style=flat-square&logo=github&logoColor=white&label=bellaizaoliveira.github.io&labelColor=0a0a0a)](https://bellaizaoliveira.github.io)
