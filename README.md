@@ -1,45 +1,114 @@
-# Olá, sou a Izabella 👋
+<!-- HEADER -->
+<div align="center">
 
-**Cientista de Dados** com atuação em IA Generativa e Machine Learning no **Bradesco Cartões**.  
-Transformo dados em decisões de negócio — em escala, com impacto real.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff2d78&height=200&section=header&text=Izabella%20Oliveira&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Generativa%20%7C%20Machine%20Learning&descAlignY=58&descSize=16&descColor=ffb3cc" width="100%"/>
+
+</div>
+
+<br>
+
+<!-- BADGES STATUS -->
+<div align="center">
+
+![Status](https://img.shields.io/badge/⚡_STATUS-OPEN_TO_WORK-ff2d78?style=for-the-badge&labelColor=0d0d0d)
+![Location](https://img.shields.io/badge/📍_LOCAL-Barueri,_SP-ff2d78?style=for-the-badge&labelColor=0d0d0d)
+![Focus](https://img.shields.io/badge/🎯_FOCO-Finance_×_AI-ff2d78?style=for-the-badge&labelColor=0d0d0d)
+
+</div>
+
+<br>
+
+<!-- SOBRE -->
+<div align="center">
+
+```python
+class IzabellaOliveira(DataScientist):
+
+    role    = "Cientista de Dados"
+    focus   = ["IA Generativa", "Machine Learning", "Finance"]
+    stack   = ["Python", "SQL", "PySpark", "XGBoost", "LLMs"]
+    company = "Bradesco Cartões"
+    status  = "open_to_work ✓"
+
+    def mission(self) -> str:
+        return "Transformar dados em decisões de negócio — em escala."
+```
+
+</div>
+
+<br>
 
 ---
 
-### 🚀 Sobre mim
+<!-- STACK -->
+### 🛠️ Stack Técnica
 
-- 🏦 Estagiária de Dados no **Bradesco Cartões** — análises em bases de +110 milhões de registros
-- 🤖 Única estagiária selecionada para desenvolver agentes de IA no **Gemini Enterprise**
-- 📊 Foco em **Ciência de Dados**, Machine Learning e IA Generativa aplicada ao setor financeiro
-- 🎓 Cursando **Tecnólogo em Ciência de Dados** (UNICID) + **Bacharelado em Ciência da Computação** (Cruzeiro do Sul)
-- 📍 Barueri, SP — Brasil
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-ff2d78?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ff2d78?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ff2d78?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-ff2d78?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-ff2d78?style=for-the-badge&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-ff2d78?style=for-the-badge&logo=apachespark&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-ff2d78?style=for-the-badge&logo=google&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-ff2d78?style=for-the-badge&logo=powerbi&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-ff2d78?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ff2d78?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br>
 
 ---
 
-### 🛠️ Stack principal
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
----
-
+<!-- PROJETOS -->
 ### 📂 Projetos em Destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [🏦 Credit Risk Prediction](https://github.com/bellaizaoliveira/credit-risk-prediction) | Modelo preditivo de inadimplência com XGBoost, SHAP e EDA completa — AUC-ROC ~0.83 | Python · XGBoost · SHAP · Scikit-learn |
-| [💬 Sentiment Analysis Banking](https://github.com/bellaizaoliveira/sentiment-analysis-banking) | Pipeline NLP para classificar avaliações de clientes bancários em PT-BR — 88% acurácia | Python · TF-IDF · SVM · NLTK |
-| [🔬 GenAI Finance Analysis](https://github.com/bellaizaoliveira/genai-finance-analysis) | 5 técnicas de Prompt Engineering com Gemini aplicadas a notícias financeiras | Python · Gemini API · LLMs |
-| [⚙️ GenAI Finance Pipeline](https://github.com/bellaizaoliveira/genai-finance-pipeline) | Pipeline GenAI end-to-end: Extração → Sumarização → Classificação → Geração de relatório | Python · Gemini API · Pipeline · NLP |
+<div align="center">
+
+| | Projeto | Descrição | Stack |
+|:---:|---|---|---|
+| 🏦 | [**Credit Risk Prediction**](https://github.com/bellaizaoliveira/credit-risk-prediction) | Modelo preditivo de inadimplência com XGBoost e interpretabilidade SHAP — AUC-ROC ~0.83 | `Python` `XGBoost` `SHAP` |
+| 💬 | [**Sentiment Analysis Banking**](https://github.com/bellaizaoliveira/sentiment-analysis-banking) | Pipeline NLP para classificar avaliações de clientes bancários em PT-BR — 88% acurácia | `NLP` `TF-IDF` `SVM` |
+| 🔬 | [**GenAI Finance Analysis**](https://github.com/bellaizaoliveira/genai-finance-analysis) | 5 técnicas de Prompt Engineering com Gemini aplicadas a análise de notícias financeiras | `Gemini API` `LLMs` |
+| ⚙️ | [**GenAI Finance Pipeline**](https://github.com/bellaizaoliveira/genai-finance-pipeline) | Pipeline GenAI completo: Extração → Sumarização → Classificação → Geração de relatório | `Pipeline` `GenAI` `NLP` |
+
+</div>
+
+<br>
 
 ---
 
-### 📫 Onde me encontrar
+<!-- STATS -->
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Izabella%20Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bellaiza)
-[![Email](https://img.shields.io/badge/Email-contato.bellaiza%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.bellaiza@gmail.com)
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bellaizaoliveira&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=ff2d78&icon_color=ff2d78&title_color=ff2d78&text_color=ffffff&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellaizaoliveira&layout=compact&theme=dark&bg_color=0d0d0d&border_color=ff2d78&title_color=ff2d78&text_color=ffffff&hide_border=false" />
+
+</div>
+
+<br>
+
+---
+
+<!-- CONTATO -->
+### 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Izabella_Oliveira-ff2d78?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/bellaiza)
+[![Email](https://img.shields.io/badge/Email-contato.bellaiza@gmail.com-ff2d78?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:contato.bellaiza@gmail.com)
+
+</div>
+
+<br>
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff2d78&height=100&section=footer" width="100%"/>
+
+</div>
